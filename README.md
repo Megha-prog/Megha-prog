@@ -1,9 +1,6 @@
-### Hi there I AM Megha Dogra ,ASPIRING FULL STACK DEVELOPER👋
-
+![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif)
 <h1 align="center">Hi 👋, I'm Megha Dogra</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=megha-prog" alt="megha-prog" /></a> </p>
 
 - 🔭 I’m currently working on [REACT 15 Projects -Learning Hooks Practically](https://github.com/Megha-prog/Menu-Using-React)
 
@@ -37,4 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=megha-prog&show_icons=true&locale=en" alt="megha-prog" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=megha-prog&" alt="megha-prog" /></p>
-
