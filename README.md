@@ -11,7 +11,6 @@
 - 🤝 I’m looking for help with [CRM Full stack Application](https://github.com/Megha-prog/CRM-Full-stack-application)
 
 - 📝 I regularly write articles on [https://satvikcoder.hashnode.dev/](https://satvikcoder.hashnode.dev/)
-
 - 💬 Ask me about **react,node/express,JS,HTML,CSS**
 
 - 📫 How to reach me **meghaadograa@gmail.com**
