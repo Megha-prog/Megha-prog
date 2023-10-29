@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [REACT 15 Projects -Learning Hooks Practically](https://github.com/Megha-prog/Menu-Using-React)
 
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently creating **DEVOPS Projects**
 
 - 👯 I’m looking to collaborate on [Ecommerce Application Full Stack](https://github.com/Megha-prog/eCommerce.Website)
 
