@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Megha Dogra</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
+    
+  - 🌱 Working on JAVA FULL STACK PROJECTS WITH React *
+
 - 🔭 I’m currently working on [REACT 15 Projects -Learning Hooks Practically](https://github.com/Megha-prog/Menu-Using-React)
 
 - 🌱 I’m currently creating **DEVOPS Projects**
@@ -13,7 +16,7 @@
 - 📝 I regularly write articles on [https://satvikcoder.hashnode.dev/](https://satvikcoder.hashnode.dev/)
 - 💬 Ask me about **react,node/express,JS,HTML,CSS**
 
-- 📫 How to reach me **meghaadograa@gmail.com**
+- 📫 How to reach me **megstar.dogra12@gmail.com**
 
 - ⚡ Fun fact **I love dance it makes me feel relax**
 
